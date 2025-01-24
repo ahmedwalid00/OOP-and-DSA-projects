@@ -1,4 +1,3 @@
-﻿# OOP-and-DSA-projects
 # OOP and DSA Projects
 
 This repository contains a collection of Object-Oriented Programming (OOP) and Data Structures and Algorithms (DSA) projects. The projects aim to implement various systems and algorithms using C++ and Python. The code is organized by different types of projects, including banking systems, management systems, games, and basic data structure algorithms.
